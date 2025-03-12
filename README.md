@@ -3,11 +3,10 @@
 
 - 🎶 I’m currently working on [Gema Launcher](https://github.com/TJ-5/GEMA_RUST)
 
-- 🌱 I’m currently learning **implementing SQL in my Rust Program**
+- 🌱 I’m currently learning to **implement SQL Datases in my Rust Program**
 
 - 📫 How to reach me **🥷🏻**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
