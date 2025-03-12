@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
+<h1 align="center">Hi 👋, I'm Tom 🥷🏻</h1>
 <h3 align="center">I like programming</h3>
 
 - 🎶 I’m currently working on [Gema Launcher](https://github.com/TJ-5/GEMA_RUST)
 
 - 🌱 I’m currently learning to **implement SQL Datases in my Rust Program**
-
-- 📫 How to reach me **🥷🏻**
 
 <p align="left">
 </p>
